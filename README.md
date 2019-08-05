@@ -3,7 +3,7 @@ Due Monday, September 9
 
 # Instructions
 1. Clone this repository to your local computer (hint: use the terminal and the `git clone` command).
-2. Open the `welcome-to-app-lab-yourgithunusername` folder in vscode.
+2. Open the `welcome-to-app-lab-yourgithubusername` folder in vscode.
 3. Edit the file `README.md` in response to the prompt (The Benefits and Costs of My Digital Life)
 4. Replace the **About Me** section with your own. I've included my own as a template.
 5. Include your answer to the Prompt (The Benefits and Costs of My Digital Life)
