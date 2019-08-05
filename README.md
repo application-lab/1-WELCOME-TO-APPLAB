@@ -7,7 +7,7 @@ Due Monday, September 9
 3. Edit the file `README.md` in response to the prompt (The Benefits and Costs of My Digital Life)
 4. Replace the **About Me** section with your own. I've included my own as a template.
 5. Include your answer to the Prompt (The Benefits and Costs of My Digital Life)
-6. Delete the **Assignment** and **Instructions** sections and push your changes to your Github repository before the deadline.
+6. Delete the **Assignment** and **Instructions** sections.
 7. `git push` your changed file - this is your assignment submission (don't forget a `commit` message)!
  
 Be sure and use [markdown](https://medium.com/applab-fall-2019/homework-1-github-bootcamp-bb21077a878b) to help format your document. You can study this document and how it appears on Github to learn more.
