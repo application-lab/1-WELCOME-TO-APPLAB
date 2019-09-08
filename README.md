@@ -1,5 +1,5 @@
 # Assignment 1: Welcome to App Lab
-Due Wednesday, September 11 
+Due Wednesday, September 09 (was originally the 11th, so if you missed this that's OK!) 
 
 # Instructions
 1. Clone this repository to your local computer (hint: use the terminal and the `git clone` command).
